@@ -1,3 +1,3 @@
-declare function noop(): any;
+declare function noop(): void;
 
 export = noop;
